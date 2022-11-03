@@ -1,1 +1,1 @@
-# GAN_Semi-supervised
+# Implemented semi-supervised GANs for Melanoma(Skin Cancer) Detection.
